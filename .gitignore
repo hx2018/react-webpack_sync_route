@@ -1,0 +1,6 @@
+# NPM Package Files #
+/node_modules/
+
+
+# build output #
+/dist/
