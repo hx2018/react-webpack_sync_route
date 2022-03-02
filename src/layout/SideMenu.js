@@ -77,7 +77,6 @@ function SideMenu(props) {
       }
     });
 
-  console.log("----SideMenu-111");
   return (
     <Menu
       className="SideMenu"

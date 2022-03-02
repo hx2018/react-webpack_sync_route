@@ -9,7 +9,6 @@ export default class List extends React.Component {
   // }
 
   render() {
-    console.log("----blogList-111");
     return (
       <div>
         <h3>Blog-List</h3>

@@ -2,7 +2,7 @@ const utils = require("./utils");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const baseConfig = require("./webpack.base.config");
 
-console.log("+++++", baseConfig.mode);
+console.log("+++++ baseConfig mode +++++", baseConfig.mode);
 
 module.exports = {
   ...baseConfig,
