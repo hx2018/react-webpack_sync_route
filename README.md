@@ -1,2 +1,5 @@
 # react-webpack
-webpack构建的react项目
+
+webpack 构建的 react 项目
+
+同步路由
